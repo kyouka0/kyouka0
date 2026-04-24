@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hello World! I'm Safiya Hossam Mohamed 🦋
+# ✨ I'm Safiya Hossam Mohamed 🦋
 
 ### 👩‍💻 Back-End Developer in Training | .NET Specialist
 
